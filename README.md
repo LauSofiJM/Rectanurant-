@@ -234,6 +234,14 @@ total_bill = order.calculate_total()
 print(f"Your total bill is: ${total_bill:.2f}. Have a bloody day!")
 
 ```
+Discounts:
+Hot discount - When ordering hot wings, mini nachos and Coke, the order will have a 5% total discount.
+La discount - When ordering tacos de birria, mini empanadas and peach tea, the order will have a 3% total discount.
+Ita discount - When ordering pepperoni pizza, French bread and coconut lemonade, the order will have a 6% total discount.
+Thirsty discount - When ordering coconut lemonade, coke, mango juice and peach tea.
+
+_The discounts will be added for the next challenge._
+
 # Mermaid - Dante's inferno
 ***
 ```mermaid
